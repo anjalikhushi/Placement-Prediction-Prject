@@ -1,4 +1,5 @@
 # Job-Placement-Prediction-Model
+![download](https://github.com/anjalikhushi/Placement-Prediction-Project/assets/82653640/4201d75f-c992-4de1-b9f8-9a690a702855)
 
 ## Introduction:
 
