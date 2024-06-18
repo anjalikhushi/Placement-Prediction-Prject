@@ -10,18 +10,24 @@ The primary objective of a job placement prediction model is to predict the like
 Raw data collected needs to be cleaned and preprocessed to ensure accuracy. This involves:
 
 Handling missing values: Filling in or removing incomplete data.
+
 Normalization: Scaling features to ensure uniformity.
+
 Encoding categorical variables: Converting non-numeric data into numeric form.
+
 Feature selection: Identifying and using the most significant factors that influence job placement.
 
 
 ## Exploratory Data Analysis:
 
 EDA is the process of analyzing data sets to summarize their main characteristics, often using visual methods. This helps in understanding the data distribution, identifying anomalies, and forming hypotheses about the data.
+
 Example EDA Tasks:
 
 Plotting the distribution of GPA scores.
+
 Analyzing the correlation between work experience and job placement.
+
 Visualizing the distribution of placements across different academic departments.
 
 ## Feature Engineering:
